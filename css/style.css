@@ -1,3 +1,8 @@
 *{
     font-family: "Cabin", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
+
+.cards {
+    height: 100px;
+    background-color: red;
+}
