@@ -2,6 +2,11 @@
     font-family: "Cabin", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
+button.login {
+    background-color: #363636;
+    color: white; 
+}
+
 .cards {
     height: 100px;
     background-color: red;
