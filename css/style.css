@@ -10,3 +10,12 @@
 .jumbo {
     height: 500px;
 }
+
+footer {
+    background-color: #00439c;
+    color: white;
+}
+
+footer ul {
+    list-style: none;
+}
