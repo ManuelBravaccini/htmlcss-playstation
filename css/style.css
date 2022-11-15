@@ -12,8 +12,11 @@ button.login {
     background-color: red;
 }
 
-.jumbo {
-    height: 500px;
+#jumbo {
+    background-image: url('../img/returnal-listing-thumb-01-ps5.jpg');
+    background-position: center;
+    padding-top: 300px;
+    color: white;
 }
 
 footer {
