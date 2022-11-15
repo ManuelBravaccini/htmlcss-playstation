@@ -18,6 +18,10 @@ button.login {
     color: white;
 }
 
+#ps5 p:first-child {
+    color: #00439c;
+}
+
 footer {
     background-color: #00439c;
     color: white;
