@@ -18,6 +18,29 @@ button.login {
     color: white;
 }
 
+button.buy-now {
+    background-color: #cc3809;
+    border: 5px solid #cc3809;
+    color: white;
+}
+
+button.infos {
+    background-color: #2d64e6;
+    border: 5px solid #2d64e6;
+    color: white;
+}
+
+button.ps-plus-button {
+    background-color: #d9dadc;
+    color: #225ce7;
+    border: 5px solid #d9dadc;
+}
+
+button.ps-now-button {
+    background-color: white;
+    border: 5px solid white;
+}
+
 #ps5 p:first-child {
     color: #00439c;
 }
