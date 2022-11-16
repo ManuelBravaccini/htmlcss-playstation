@@ -11,11 +11,19 @@ button.login {
     height: 100px;
 }
 
-#jumbo {
-    background-image: url('../img/returnal-listing-thumb-01-ps5.jpg');
+#jumbo1,
+#jumbo2 {
     background-position: center;
     padding-top: 300px;
     color: white;
+}
+
+#jumbo1 {
+    background-image: url(../img/returnal-listing-thumb-01-ps5.jpg);
+}
+
+#jumbo2 {
+    background-image: url(../img/it-takes-two-hero-banner-desktop.jpg);
 }
 
 button.buy-now {
